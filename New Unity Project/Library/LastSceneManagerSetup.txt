@@ -2,12 +2,12 @@ sceneSetups:
 - path: Assets/1.unity
   isLoaded: 0
   isActive: 0
-- path: Assets/VRTK/Examples/005_Controller_BasicObjectGrabbing.unity
-  isLoaded: 0
-  isActive: 0
 - path: Assets/VRTK/Examples/001_CameraRig_VR_PlayArea.unity
   isLoaded: 0
   isActive: 0
 - path: Assets/test.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/VRTK/Scripts/Utilities/005_Controller_BasicObjectGrabbing.unity
   isLoaded: 1
   isActive: 1
