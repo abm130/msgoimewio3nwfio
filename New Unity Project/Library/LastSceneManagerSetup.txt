@@ -8,6 +8,6 @@ sceneSetups:
 - path: Assets/test.unity
   isLoaded: 0
   isActive: 0
-- path: Assets/VRTK/Scripts/Utilities/005_Controller_BasicObjectGrabbing.unity
+- path: Assets/2.unity
   isLoaded: 1
   isActive: 1
