@@ -1,13 +1,16 @@
 sceneSetups:
-- path: Assets/1.unity
-  isLoaded: 0
-  isActive: 0
-- path: Assets/VRTK/Examples/001_CameraRig_VR_PlayArea.unity
-  isLoaded: 0
-  isActive: 0
-- path: Assets/test.unity
-  isLoaded: 0
-  isActive: 0
-- path: Assets/2.unity
+- path: Assets/richtigVRohneSimulator.unity
   isLoaded: 1
   isActive: 1
+- path: Assets/VRTK/Examples/004_CameraRig_BasicTeleport.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/VRTK/Examples/007_CameraRig_HeightAdjustTeleport.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/VRTK/Examples/006_Controller_UsingADoor.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/VRTK/Examples/025_Controls_Overview.unity
+  isLoaded: 0
+  isActive: 0
