@@ -1,11 +1,14 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\VRTK\Scripts\Interactions\VRTK_ControllerActions.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MyOwnStuff\Scripts\DisplayaText.cs">
     <Files>
       <File FileName="Assets\MyOwnStuff\Scripts\Movement.cs" Line="1" Column="1" />
       <File FileName="Assets\MyOwnStuff\Scripts\Rotation.cs" Line="1" Column="1" />
-      <File FileName="Assets\VRTK\Scripts\Utilities\VRTK_SDKManager.cs" Line="192" Column="1" />
-      <File FileName="Assets\VRTK\Scripts\Interactions\VRTK_ControllerActions.cs" Line="510" Column="1" />
+      <File FileName="Assets\VRTK\Scripts\Utilities\VRTK_SDKManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\VRTK\Scripts\Interactions\VRTK_ControllerActions.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyOwnStuff\Scripts\HoverPlatform.cs" Line="16" Column="1" />
+      <File FileName="Assets\Textcontroller.cs" Line="8" Column="2" />
+      <File FileName="Assets\MyOwnStuff\Scripts\DisplayaText.cs" Line="44" Column="61" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
