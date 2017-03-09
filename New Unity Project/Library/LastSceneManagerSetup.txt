@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/richtigVRohneSimulator3.unity
+- path: Assets/richtigVRohneSimulator6.unity
   isLoaded: 1
   isActive: 1
 - path: Assets/VRTK/Examples/004_CameraRig_BasicTeleport.unity
@@ -21,5 +21,8 @@ sceneSetups:
   isLoaded: 0
   isActive: 0
 - path: Assets/VRTK/Examples/022_Controller_CustomBezierPointer.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/VRTK/Examples/030_Controls_RadialTouchpadMenu.unity
   isLoaded: 0
   isActive: 0

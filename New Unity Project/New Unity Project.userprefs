@@ -6,9 +6,10 @@
       <File FileName="Assets\MyOwnStuff\Scripts\Rotation.cs" Line="1" Column="1" />
       <File FileName="Assets\VRTK\Scripts\Utilities\VRTK_SDKManager.cs" Line="1" Column="1" />
       <File FileName="Assets\VRTK\Scripts\Interactions\VRTK_ControllerActions.cs" Line="1" Column="1" />
-      <File FileName="Assets\MyOwnStuff\Scripts\HoverPlatform.cs" Line="16" Column="1" />
-      <File FileName="Assets\Textcontroller.cs" Line="8" Column="2" />
-      <File FileName="Assets\MyOwnStuff\Scripts\DisplayaText.cs" Line="44" Column="61" />
+      <File FileName="Assets\MyOwnStuff\Scripts\HoverPlatform.cs" Line="1" Column="1" />
+      <File FileName="Assets\Textcontroller.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyOwnStuff\Scripts\DisplayaText.cs" Line="44" Column="62" />
+      <File FileName="Assets\MyOwnStuff\Scripts\Flashlight.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

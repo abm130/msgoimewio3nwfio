@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\MyOwnStuff\Scripts\DisplayaText.cs" />
+     <Compile Include="Assets\MyOwnStuff\Scripts\Flashlight.cs" />
      <Compile Include="Assets\MyOwnStuff\Scripts\HoverPlatform.cs" />
      <Compile Include="Assets\MyOwnStuff\Scripts\Movement.cs" />
      <Compile Include="Assets\MyOwnStuff\Scripts\Rotation.cs" />

@@ -41,7 +41,7 @@ public class DisplayaText : MonoBehaviour {
 	{
 		if (display == true)
 		{
-			GUI.Box (new Rect (0, 70, Screen.width, Screen.height - 570), text);
+			GUI.Box (new Rect (0, 70, Screen.width, Screen.height - 850), text);
 		}
 	}
 }
