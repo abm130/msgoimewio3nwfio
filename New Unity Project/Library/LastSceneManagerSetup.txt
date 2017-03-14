@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/richtigVRohneSimulator6.unity
+- path: Assets/richtigVRohneSimulator6nochmaTaschenlampeUndLeiderOhneRobo.unity
   isLoaded: 1
   isActive: 1
 - path: Assets/VRTK/Examples/004_CameraRig_BasicTeleport.unity
