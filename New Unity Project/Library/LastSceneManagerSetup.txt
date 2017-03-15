@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/richtigVRohneSimulator7.unity
+- path: Assets/richtigVRohneSimulator8.unity
   isLoaded: 1
   isActive: 1
 - path: Assets/VRTK/Examples/004_CameraRig_BasicTeleport.unity
